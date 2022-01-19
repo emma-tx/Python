@@ -1,0 +1,7 @@
+README
+
+== DEPENDENCIES ==
+*PythonCard (for the GUI program)
+*PyCrypto
+*hashlib
+
